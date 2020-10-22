@@ -16,7 +16,7 @@ Use Cases:
 Team Members:
 -------------
 1. Mounika Jajala (Backend Application Design, Scrum Master)
-2. Saritha Velpuri (Spring boot & Backend Application Development)
+2. Saritha Velpuri (Angular & Backend Application Development)
 3. Sai Prasanna Reddy (Anjular JS & Front end development)
 
 College:
